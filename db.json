@@ -1,0 +1,246 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Alat Tulis"
+    },
+    {
+      "id": 2,
+      "nama": "Kitab"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nama": "Sidu 32",
+      "harga": 20000,
+      "gambar": "sidu32.jpg",
+      "categories": {
+        "id": 1,
+        "nama": "Alat Tulis"
+      }
+    },
+    {
+      "id": 2,
+      "nama": "Pen Standard",
+      "harga": 3000,
+      "gambar": "penstandard.jpg",
+      "categories": {
+        "id": 1,
+        "nama": "Alat Tulis"
+      }
+    },
+    {
+      "id": 3,
+      "nama": "Majmu'at",
+      "harga": 24000,
+      "gambar": "majmuat.jpg",
+      "categories": {
+        "id": 2,
+        "nama": "Kitab"
+      }
+    },
+    {
+      "id": 4,
+      "nama": "Tafsir Jalalain",
+      "harga": 40000,
+      "gambar": "tafsirjalalain.jpg",
+      "categories": {
+        "id": 2,
+        "nama": "Kitab"
+      }
+    }
+  ],
+  "carts": [],
+  "historys": [
+    {
+      "total_price": 69000,
+      "menus": [
+        {
+          "qty": 1,
+          "total_price": 20000,
+          "product": {
+            "id": 1,
+            "nama": "Sidu 32",
+            "harga": 20000,
+            "gambar": "sidu32.jpg",
+            "categories": {
+              "id": 1,
+              "nama": "Alat Tulis"
+            }
+          },
+          "id": 1
+        },
+        {
+          "qty": 3,
+          "total_price": 9000,
+          "product": {
+            "id": 2,
+            "nama": "Pen Standard",
+            "harga": 3000,
+            "gambar": "penstandard.jpg",
+            "categories": {
+              "id": 1,
+              "nama": "Alat Tulis"
+            }
+          },
+          "id": 2
+        },
+        {
+          "qty": 1,
+          "total_price": 40000,
+          "product": {
+            "id": 4,
+            "nama": "Tafsir Jalalain",
+            "harga": 40000,
+            "gambar": "tafsirjalalain.jpg",
+            "categories": {
+              "id": 2,
+              "nama": "Kitab"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "total_price": 97000,
+      "menus": [
+        {
+          "qty": 2,
+          "total_price": 48000,
+          "product": {
+            "id": 3,
+            "nama": "Majmu'at",
+            "harga": 24000,
+            "gambar": "majmuat.jpg",
+            "categories": {
+              "id": 2,
+              "nama": "Kitab"
+            }
+          },
+          "id": 1
+        },
+        {
+          "qty": 3,
+          "total_price": 9000,
+          "product": {
+            "id": 2,
+            "nama": "Pen Standard",
+            "harga": 3000,
+            "gambar": "penstandard.jpg",
+            "categories": {
+              "id": 1,
+              "nama": "Alat Tulis"
+            }
+          },
+          "id": 2
+        },
+        {
+          "qty": 2,
+          "total_price": 40000,
+          "product": {
+            "id": 1,
+            "nama": "Sidu 32",
+            "harga": 20000,
+            "gambar": "sidu32.jpg",
+            "categories": {
+              "id": 1,
+              "nama": "Alat Tulis"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 2
+    },
+    {
+      "total_price": 20000,
+      "menus": [
+        {
+          "qty": 1,
+          "total_price": 20000,
+          "product": {
+            "id": 1,
+            "nama": "Sidu 32",
+            "harga": 20000,
+            "gambar": "sidu32.jpg",
+            "categories": {
+              "id": 1,
+              "nama": "Alat Tulis"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 3
+    },
+    {
+      "total_price": 234000,
+      "menus": [
+        {
+          "qty": 4,
+          "total_price": 160000,
+          "product": {
+            "id": 4,
+            "nama": "Tafsir Jalalain",
+            "harga": 40000,
+            "gambar": "tafsirjalalain.jpg",
+            "categories": {
+              "id": 2,
+              "nama": "Kitab"
+            }
+          },
+          "id": 2
+        },
+        {
+          "qty": 2,
+          "total_price": 48000,
+          "product": {
+            "id": 3,
+            "nama": "Majmu'at",
+            "harga": 24000,
+            "gambar": "majmuat.jpg",
+            "categories": {
+              "id": 2,
+              "nama": "Kitab"
+            }
+          },
+          "id": 3
+        },
+        {
+          "qty": 2,
+          "total_price": 6000,
+          "product": {
+            "id": 2,
+            "nama": "Pen Standard",
+            "harga": 3000,
+            "gambar": "penstandard.jpg",
+            "categories": {
+              "id": 1,
+              "nama": "Alat Tulis"
+            }
+          },
+          "id": 4
+        },
+        {
+          "qty": 1,
+          "total_price": 20000,
+          "product": {
+            "id": 1,
+            "nama": "Sidu 32",
+            "harga": 20000,
+            "gambar": "sidu32.jpg",
+            "categories": {
+              "id": 1,
+              "nama": "Alat Tulis"
+            }
+          },
+          "id": 5
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
